@@ -2,6 +2,9 @@
  * @lc app=leetcode id=1021 lang=cpp
  *
  * [1021] Remove Outermost Parentheses
+ * 
+ * Tags: stack, string
+ * 
  */
 
 // @lc code=start
